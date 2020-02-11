@@ -1,2 +1,2 @@
-Git is a version control .
+Git is a version control dudu .
 Git is free software.

@@ -55,6 +55,7 @@ export default {
         transform:translate(-50%,-50%);
         background-color: #fff;
         padding: 10px;
+        
         img{
             width: 100%;
             height: 100%;

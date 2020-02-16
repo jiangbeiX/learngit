@@ -24,3 +24,17 @@ h1,h2,h3,h4,h5,h6,em,i {
 ul,ol,li {
 	list-style-type:none;
 }
+.el-card{
+
+	padding:0!important;
+	margin: 35px;
+}
+.el-breadcrumb{
+	font-size: 20px !important;
+}
+.el-table{
+	margin-top: 25px;
+}
+.el-pagination{
+	margin-top: 25px;
+}
